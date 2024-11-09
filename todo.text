@@ -1,0 +1,27 @@
+1. Project File Structure 
+2. Project Package
+3. Route Config
+4. App.js Config
+5. Postman Initial Config
+6. email credential:
+
+export const EMAIL_HOST ='mail.teamrabbil.com'
+export const EMAIL_PORT =25
+export const EMAIL_SECURITY=false
+export const EMAIL_USER ='info@teamrabbil.com'
+export const EMAIL_PASS ='~sR4[bhaC[Qs'
+export const EMAIL_UN_AUTH=false
+
+7.Mongo DB Collection Name Always Plural like ->Users
+8. write model properties
+9. Registration API
+10.Login API
+11. Profile Details API
+12. EmailVerify API
+13. CodeVerify API
+13. ResetPassword API
+14. CreateTask API
+15. UpdateTaskStatus API
+16. TaskListByStatus API
+17. DeleteTask API
+18. CountTask API
